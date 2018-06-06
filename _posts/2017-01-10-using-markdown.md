@@ -3,6 +3,7 @@ layout: post
 title: "On Using Markdown"
 date: 2017-01-10 12:00:00
 categories: markdown
+featured_image: /images/cover.jpg
 ---
 
 This is a demo of all styled elements in Jekyll Now.

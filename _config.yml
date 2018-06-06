@@ -1,6 +1,6 @@
 # Site settings
 title: 'Points. Lines. Polygons.' # Your Title
-tagline: 'An urbanist blog on geography and other random things. Inspired by Chambers for A Memory Palace.' # A brief tagline for your site
+tagline: 'a blog on geography and random things' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
 
 # permalink: /:title/
