@@ -17,7 +17,6 @@ sidebar_image: /images/cover.jpg
 #   # Use existing pygments syntax highlighting css
 #   css_class: 'highlight'
 
-# markdown: redcarpet
 markdown: kramdown
 highlighter: pygments
 baseurl: "" # the subpath of your site, e.g. /blog
