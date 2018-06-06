@@ -18,5 +18,5 @@ sidebar_image: /images/cover.jpg
 #   css_class: 'highlight'
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 baseurl: "" # the subpath of your site, e.g. /blog
